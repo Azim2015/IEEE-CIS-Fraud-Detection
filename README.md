@@ -1,2 +1,2 @@
 # IEEE-CIS-Fraud-Detection
-Implementation code for a fraud detection approach
+This repository is created to provide iplementation files for the article published on Fraud Detection using Credit Cards Info. 
